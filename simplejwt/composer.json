@@ -1,0 +1,14 @@
+{
+    "name": "basic-example/php",
+    "scripts": {
+        "lint": "php-cs-fixer fix",
+        "test": "phpunit"
+    },
+    "require": {
+        "kelvinmo/simplejwt": "^0.5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.3",
+        "friendsofphp/php-cs-fixer": "^3.62"
+    }
+}

@@ -1,0 +1,9 @@
+# editor
+.idea
+.vscode
+
+# cache
+*.cache
+
+# composer
+vendor
