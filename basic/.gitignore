@@ -1,0 +1,11 @@
+# dependencies
+/vendor
+
+# misc
+Thumbs.db
+.DS_Store
+/.idea
+/.vscode
+
+# php-cs-fixer
+*.cache
